@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankerAlgorithm": {
+      "commandName": "Project",
+      "commandLineArgs": "--fileName E:\\清华\\大三春\\操作系统\\作业\\OS_Projects\\BankerAlgorithm\\testFiles\\test3.txt"
+    }
+  }
+}
